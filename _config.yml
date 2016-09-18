@@ -16,7 +16,7 @@
 title: Arun Venkatesan
 email: dallasarun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The personal blog of Arun Venkatesan. Features design, objects, travel, interviews and more.
+  The personal blog of Arun Venkatesan. Design, objects, technology, travel, interviews and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.arun.is" # the base hostname & protocol for your site
 twitter_username: zhenpixels
